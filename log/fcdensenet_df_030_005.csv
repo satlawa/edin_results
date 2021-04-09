@@ -1,0 +1,2 @@
+train_loss, train_acc_all, train_acc_mean, train_jacc, train_dice, val_loss, val_acc_all, val_acc_mean, val_jacc, val_dice, 
+train_loss, train_acc_all, train_acc_mean, train_jacc, train_dice, val_loss, val_acc_all, val_acc_mean, val_jacc, val_dice, 
